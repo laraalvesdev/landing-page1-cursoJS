@@ -95,7 +95,7 @@ p{
 }
 
 .main-bg {
-  background-image: url('wavey-fingerprint.svg');
+  background-image: img('wavey-fingerprint.svg');
   background-size:auto;
   background-position: center center;
   color: var(--white-color);
