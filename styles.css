@@ -95,7 +95,7 @@ p{
 }
 
 .main-bg {
-  background-image: url('../img/wavey-fingerprint.svg');
+  background-image: url('https://laraalvesdev.github.io/landing-page1-cursoJS/ wavey-fingerprint.svg');
   background-size:auto;
   background-position: center center;
   color: var(--white-color);
